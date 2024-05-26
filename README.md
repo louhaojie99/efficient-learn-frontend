@@ -40,6 +40,12 @@
 
 [OpenAI](https://www.openai.com/)
 
+### Utils
+
+[Chrome 极简插件](https://chrome.zzzmh.cn/)
+
+[油猴脚本 Greasy Fork](https://greasyfork.org/zh-CN/)
+
 ## 📚 技术相关的资源
 
 ### Java
