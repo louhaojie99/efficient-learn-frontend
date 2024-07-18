@@ -63,3 +63,15 @@
 [TypeScript 使用指南手册](https://www.patrickzhong.com/TypeScript/PREFACE.html)
 
 ...
+
+### 阅读
+
+[约定式提交](https://www.conventionalcommits.org/zh-hans/v1.0.0)
+
+...
+
+### 好用的工具
+
+[Mac 录屏工具](https://getkap.co/)
+
+...
