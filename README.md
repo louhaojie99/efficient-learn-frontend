@@ -62,6 +62,8 @@
 
 [TypeScript 使用指南手册](https://www.patrickzhong.com/TypeScript/PREFACE.html)
 
+[七天学会NodeJS](https://nqdeng.github.io/7-days-nodejs/#1)
+
 ...
 
 ### 阅读
