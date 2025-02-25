@@ -28,6 +28,8 @@
 
 [EFCloud 首页](https://user.efcloud.cc/)
 
+[XSUS-十八线小机场](https://xs-us.xyz/)
+
 [AntClash 首页](https://www.antclash.xyz/)
 
 ### ChatGPT
