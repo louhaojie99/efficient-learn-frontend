@@ -32,6 +32,8 @@
 
 [AntClash 首页](https://www.antclash.xyz/)
 
+[一元机场·VIP](https://vgvg.vg#/register?code=lOaK8ewf)
+
 ### ChatGPT
 
 推荐几个好用的 AI 平台
