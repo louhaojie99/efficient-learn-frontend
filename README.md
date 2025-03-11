@@ -44,6 +44,8 @@
 
 [OpenAI](https://www.openai.com/)
 
+[DeepSeek](https://ai.com/)
+
 ### Utils
 
 [Chrome 极简插件](https://chrome.zzzmh.cn/)
@@ -58,8 +60,6 @@
 
 ### 🌐 大前端
 
-#### TypeScript
-
 [官方-TypeScript](https://www.typescriptlang.org/)
 
 [深入探究 TypeScript](https://basarat.gitbook.io/typescript/type-system)
@@ -69,6 +69,10 @@
 [NodeJS官方网站](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)
 
 [七天学会NodeJS](https://nqdeng.github.io/7-days-nodejs/#1)
+
+[前端面试派](https://www.mianshipai.com/)
+
+[如何规范你的Git commit？]https://zhuanlan.zhihu.com/p/182553920?utm_source=org.mozilla.firefox
 
 ...
 
