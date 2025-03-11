@@ -72,7 +72,7 @@
 
 [前端面试派](https://www.mianshipai.com/)
 
-[如何规范你的Git commit？]https://zhuanlan.zhihu.com/p/182553920?utm_source=org.mozilla.firefox
+[如何规范你的Git commit？](https://zhuanlan.zhihu.com/p/182553920?utm_source=org.mozilla.firefox)
 
 ...
 
