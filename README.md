@@ -107,7 +107,7 @@
 
 推荐几个平时科学上网时购买流量不错的选择！
 
-[一元机场·VIP](https://vgvg.vg#/register?code=lOaK8ewf) `推荐`
+- [一元机场·VIP](https://vgvg.vg#/register?code=lOaK8ewf) `推荐`
 
 ## 其他
 
