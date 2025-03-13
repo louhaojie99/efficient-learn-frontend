@@ -18,7 +18,7 @@
   </a>  
 </p>
 
-📚 [与前端相关的资料。](#index)
+📚 与前端相关的资料。
 
 ## 🤔 这是什么？
 
@@ -31,7 +31,7 @@
 - [JavaScript 周刊](https://javascriptweekly.com/)
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#efficient-learn-frontend">↥ Back To Top</a></b>
 </div>
 
 ## 🧑 大牛博客
@@ -44,7 +44,7 @@
 - [Dan Abramov](https://overreacted.io/)
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#efficient-learn-frontend">↥ Back To Top</a></b>
 </div>
 
 ## 📑 目录
@@ -84,7 +84,7 @@
 - [其他](#其他)
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#efficient-learn-frontend">↥ Back To Top</a></b>
 </div>
 
 ## 前端基础
@@ -96,7 +96,7 @@
 - [七天学会 NodeJS](https://nqdeng.github.io/7-days-nodejs/#1)
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#efficient-learn-frontend">↥ Back To Top</a></b>
 </div>
 
 ## 前端规范化
@@ -105,7 +105,7 @@
 - [如何规范你的 git commit？](https://zhuanlan.zhihu.com/p/182553920?utm_source=org.mozilla.firefox)
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#efficient-learn-frontend">↥ Back To Top</a></b>
 </div>
 
 ## AI
@@ -117,7 +117,7 @@
 - [文心一言 - 百度科技](https://yiyan.baidu.com/)
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#efficient-learn-frontend">↥ Back To Top</a></b>
 </div>
 
 ## 面试
@@ -126,7 +126,7 @@
 - [面试鸭](https://www.mianshiya.com/)
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#efficient-learn-frontend">↥ Back To Top</a></b>
 </div>
 
 ## VPNs
@@ -136,7 +136,7 @@
 - [一元机场·VIP](https://vgvg.vg#/register?code=lOaK8ewf) `推荐`
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#efficient-learn-frontend">↥ Back To Top</a></b>
 </div>
 
 ## 其他
@@ -149,5 +149,5 @@
 - [JAVA 全栈知识体系](https://pdai.tech/)
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#efficient-learn-frontend">↥ Back To Top</a></b>
 </div>
