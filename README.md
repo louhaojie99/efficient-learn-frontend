@@ -61,11 +61,12 @@
   - [Vite](#vite)
   - [Babel](#babel)
   - [Rollup](#rollup)
+  - [规范与自动化（ESLint、Prettier、CommitLint、Husky、Lint-Staged）](#规范与自动化)
+- [前端性能优化](#前端性能优化)
 - [包管理工具](#包管理工具)
   - [npm](#npm)
   - [yarn](#yarn)
   - [pnpm](#pnpm)
-- [前端性能优化](#前端性能优化)
 - [前端规范化](#前端规范化)
   - [约定式提交](#前端规范化)
   - [commit 提交规范](#前端规范化)
@@ -96,6 +97,8 @@
 
 - [DeepSeek - 宇树科技](https://ai.com/) `推荐`
 - [OpenAI - 美国埃隆·马斯克](https://www.openai.com/) `推荐`
+- [豆包 - 字节跳动](https://www.doubao.com/chat/) `推荐`
+- [通义千问 - 阿里巴巴](https://tongyi.aliyun.com/) `推荐`
 - [文心一言 - 百度科技](https://yiyan.baidu.com/)
 
 ## 面试
