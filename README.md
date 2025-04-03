@@ -116,6 +116,7 @@
 - [豆包 - 字节跳动](https://www.doubao.com/chat/) `推荐`
 - [通义千问 - 阿里巴巴](https://tongyi.aliyun.com/) `推荐`
 - [文心一言 - 百度科技](https://yiyan.baidu.com/)
+- [AI工具集](https://ai-bot.cn/)
 
 <div align="right">
   <b><a href="#efficient-learn-frontend">↥ Back To Top</a></b>
