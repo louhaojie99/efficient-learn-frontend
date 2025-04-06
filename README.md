@@ -149,14 +149,20 @@
   <b><a href="#efficient-learn-frontend">↥ Back To Top</a></b>
 </div>
 
+## 实用工具
+
+- [Mac 录屏工具](https://getkap.co/)
+- [Windows 录屏工具](https://www.screentogif.com/)
+- [IDM-可跑满带宽的下载神器](https://www.internetdownloadmanager.com/) ，[IDM 激活和跟踪重置脚本](https://github.com/lstprjct/IDM-Activation-Script)
+
 ## 其他
 
 - [如何成为一名自洽的程序员](https://www.dev-life.site/)
 - [Chrome 极简插件](https://chrome.zzzmh.cn/)
 - [油猴脚本 Greasy Fork](https://greasyfork.org/zh-CN/)
-- [Mac 录屏工具](https://getkap.co/)
-- [Windows 录屏工具](https://www.screentogif.com/)
+
 - [JAVA 全栈知识体系](https://pdai.tech/)
+
 
 <div align="right">
   <b><a href="#efficient-learn-frontend">↥ Back To Top</a></b>
