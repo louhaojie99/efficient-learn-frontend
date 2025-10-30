@@ -171,8 +171,8 @@
 - [如何成为一名自洽的程序员](https://www.dev-life.site/)
 - [Chrome 极简插件](https://chrome.zzzmh.cn/)
 - [油猴脚本 Greasy Fork](https://greasyfork.org/zh-CN/)
-
 - [JAVA 全栈知识体系](https://pdai.tech/)
+- [免费简历模板，800万精英都在用](https://jianlixiazai.cn/)
 
 
 <div align="right">
