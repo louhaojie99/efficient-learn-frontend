@@ -162,6 +162,7 @@
 - [Windows 录屏工具](https://www.screentogif.com/)
 - [IDM-可跑满带宽的下载神器](https://www.internetdownloadmanager.com/) ，[IDM 激活和跟踪重置脚本](https://github.com/lstprjct/IDM-Activation-Script)
 - [文件转换器](https://cloudconvert.com/)
+- [Google AI Studio](https://aistudio.google.com/)
 
 <div align="right">
   <b><a href="#efficient-learn-frontend">↥ Back To Top</a></b>
