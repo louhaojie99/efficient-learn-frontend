@@ -163,6 +163,7 @@
 - [IDM-可跑满带宽的下载神器](https://www.internetdownloadmanager.com/) ，[IDM 激活和跟踪重置脚本](https://github.com/lstprjct/IDM-Activation-Script)
 - [文件转换器](https://cloudconvert.com/)
 - [Google AI Studio](https://aistudio.google.com/)
+- [Mac软件工具库](https://www.macwk.com/soft)
 
 <div align="right">
   <b><a href="#efficient-learn-frontend">↥ Back To Top</a></b>
