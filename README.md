@@ -22,37 +22,7 @@
 
 ## 🤔 这是什么？
 
-相信很多人和我一样，平时在网上学习（或者说闲逛 😅）时，突然发现一些优质的学习资源，就会立刻收藏起来。为了方便，我决定把好的文章和工具都集中存到这里，以后找起来更轻松！
-
-## 📖 每日必读
-
-- [阮一峰的网络日志](https://ruanyifeng.com/blog/)
-- [CSS 周刊](https://css-weekly.com/archives/)
-- [JavaScript 周刊](https://javascriptweekly.com/)
-
-<div align="right">
-  <b><a href="#efficient-learn-frontend">↥ Back To Top</a></b>
-</div>
-
-## 🧑 大牛博客
-
-这里是一些技术大牛的博客
-
-- [北岛 - 曾经的 Leader](https://jtsang.me/) `同事`
-- [陈坤 - 优秀的朋友](https://github.com/ChenKun1997/) `同事`
-- [刘江虹 - 抖音架构师](https://skhon.github.io/) `网友`
-- [Dan Abramov](https://overreacted.io/)
-
-<div align="right">
-  <b><a href="#efficient-learn-frontend">↥ Back To Top</a></b>
-</div>
-
-## 前端工程师的核心知识体系
-
-- 语言（JavaScript）
-- 工程化（一大堆技术的合集）
-- 框架（React、Vue）
-- 服务器
+平时在网上学习时发现了许多优质资源，为了避免收藏夹吃灰，统一整理到这里。内容涵盖 **前端基础、AI 工具、工程化规范、实用工具** 等方向，持续更新中。
 
 ## 📑 目录
 
