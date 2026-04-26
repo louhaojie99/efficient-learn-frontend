@@ -152,3 +152,15 @@
 <div align="right">
   <b><a href="#efficient-learn-frontend">↥ Back To Top</a></b>
 </div>
+
+
+
+## 工程规范（Specs）
+
+本文档统一规范研发协作的工程标准，明确各场景技术方案、落地规则与参考资料。整体采用扁平化表格管理，新增规范条目直接追加行即可，无需调整整体文档结构，便于长期维护。
+
+| 类别 | 适用范围 | 推荐方案 | 简要说明 | 参考 |
+| --- | --- | --- | --- | --- |
+| Lint | 前端 / JS / TS | [Biome](https://biomejs.dev/linter/) | 统一 formatter + linter 的前端工具链，性能快、默认配置也比较稳；建议先采用推荐规则，再按团队约定逐步加严。 | <https://github.com/antvis/X6> |
+| i18n | React / 前端 | [`react-i18next`](https://github.com/i18next/react-i18next) | React 生态里很常用的国际化方案，基于 `i18next`，支持 hooks / 组件、命名空间、插值和复数规则。 | <https://github.com/i18next/react-i18next> |
+| i18n | React / 前端 | [`react-intl`](https://github.com/formatjs/formatjs/tree/main/packages/react-intl) | FormatJS 出品的 React 国际化方案，API 设计清晰，支持 ICU 消息语法、复数、相对时间格式化等开箱即用特性。 | <https://louhaojie99.github.io/pro-components/components/intl-provider> |
