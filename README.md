@@ -48,7 +48,8 @@
 
 ### VPNs
 推荐几个不错的科学上网选择：
-- [一元机场·VIP](https://vgvg.vg#/register?code=lOaK8ewf) `推荐`
+- [米乐互联](https://mi.le.mileyun-cloud.com/index.php#/register?code=5JRgBKNl)`推荐`
+- [一元机场](https://vgvg.vg#/register?code=lOaK8ewf) 
 
 
 ## 面试准备
