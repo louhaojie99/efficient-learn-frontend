@@ -49,6 +49,7 @@
 ### VPNs
 推荐几个不错的科学上网选择：
 - [米乐互联](https://mi.le.mileyun-cloud.com/index.php#/register?code=5JRgBKNl)`推荐`
+- [豆豆豆奶](https://dounai.pro/auth/register?code=Mmpc7iMFDuzOxNPcrr7zJHWqUOlsoAXp)
 - [一元机场](https://vgvg.vg#/register?code=lOaK8ewf) 
 
 
